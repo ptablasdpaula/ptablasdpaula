@@ -2,6 +2,8 @@ Hi! I’m a third-year PhD researcher at the [Centre for Digital Music](https://
 
 My research focuses on **grey-box modelling of musical instruments**, particularly differentiable digital signal processing and the optimisation of digital waveguide models.
 
+Also: I am currently doing a research visit the Aalto Acoustics Lab in Helsinki with Vesa Välimäki. I will be here until mid-November, so stay tuned for interesting collaborations :) 
+
 ## Selected research
 
 - **[Differentiable Karplus–Strong — DMRN 2020](https://ptablasdpaula.github.io/DiffKarplusStrong_DMRN20/)**  
