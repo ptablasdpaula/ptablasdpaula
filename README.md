@@ -10,7 +10,7 @@ My research focuses on **grey-box modelling of musical instruments**, particular
 - **[Four Decades of Digital Waveguide Synthesis — JAES](https://aes.org/publications/elibrary-page/?id=23382)**  
   A comprehensive review of the history and development of digital waveguide synthesis, co-authored with several pioneers of the field.
 
-- **[Event-Based Differentiable Karplus–Strong — DAFx 2026](https://ptablasdpaula.github.io/DAFx26-Karplus/)**  
+- **[Sound-Matching with a Differentiable Karplus–Strong — DAFx 2026](https://ptablasdpaula.github.io/DAFx26-Karplus/)**  
   An extension of my earlier Karplus–Strong work introducing an event-based DDSP architecture, in which individual notes have independently optimisable pitch and onset-time parameters.
 
 - **[Cumulative Energy Losses — ICASSP 2027 submission](https://github.com/ptablasdpaula/ICASSP27-Phrase)**  
